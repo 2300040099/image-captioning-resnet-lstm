@@ -170,8 +170,8 @@ MIT License
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@2300040099](https://github.com/2300040099)
+- Email: sshruthi2404@gmail.com
 
 ---
 
